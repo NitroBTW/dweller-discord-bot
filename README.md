@@ -1,4 +1,4 @@
-# The Cavern Discord Bot
+# Dweller Discord Bot
 
 A feature-rich Discord bot custom-built for "The Cavern" Discord server. This bot brings together economy systems, casino games, moderation tools, and social features to create an engaging community experience.
 
@@ -150,9 +150,6 @@ The bot automatically handles database migration. When adding new fields:
 This project is open source. Feel free to use and modify the code, but note that it's specifically themed for "The Cavern" Discord server.
 
 ## Disclaimer
-
-This bot is custom-made for "The Cavern" Discord server. While the code is provided as-is, some features may not fit in other servers without modification of themes, channel references, and server-specific configurations.
-
 This bot is custom-made for "The Cavern" Discord server. While the code is provided as-is, some features may not fit in other servers. This includes:
 - Cave/underground themed language
 - Server-specific references
