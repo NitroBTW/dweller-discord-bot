@@ -1,0 +1,11 @@
+# Discord bot framework
+discord.py>=2.3.2
+
+# Environment variable loading
+python-dotenv>=1.0.0
+
+# Colored console logging
+colorlog>=6.7.0
+
+# JSON-based database
+tinydb>=4.8.0
