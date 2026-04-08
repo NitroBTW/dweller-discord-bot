@@ -155,3 +155,7 @@ This bot is custom-made for "The Cavern" Discord server. While the code is provi
 - Server-specific references
 - Features tailored to the server's tavern-in-a-cavern theme
 - Integration with server-specific roles and channels
+
+## Acknowledgements
+
+Parts of the code and documentation in this repository were developed with the assistance of AI
